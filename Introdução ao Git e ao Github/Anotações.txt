@@ -1,0 +1,4 @@
+
+chave SSH =  É uma forma de estabelecer uma conexao segura e encriptada entre duas maquinas(exemplo: conexao entre maquina e servidor github)
+
+o Gitbash é um terminal extendido para otimizar o uso do Git.
